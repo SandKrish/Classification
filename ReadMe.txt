@@ -1,4 +1,15 @@
-This notebook predicts if the target class belong to 0 or 1.
+
+# Classification
+
+## [1. Class Imbalance Dataset](https://github.com/SandKrish/Classification_Prediction/blob/main/imbalance-insurance-data-analysis.ipynb).
+This notebook is used to analyze Insurance Imbalance Data.
+
+## [2.KNN-SVM-SVM with Kernel](https://github.com/SandKrish/Classification_Prediction/blob/main/knn-svm-svm-with-kernel-hyperparameter.ipynb).
+This notebook is used to analyze a dataset with KNN, SVM and SVM with Kernel
+
+## [3. Binary_Classification of huge dataset](https://github.com/SandKrish/Classification_Prediction/blob/main/Binary_Classification_Prediction.ipynb).
+This notebook predicts if the target class belong to 0 or 1 for nuge dataset with 58 columns.
+
 
 The are two different dataset - Training set and Test set.
 - Training set contains  3910  rows with  57 features and 1 target
