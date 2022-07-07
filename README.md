@@ -34,3 +34,7 @@ NN had a overfitting issue, so it was over come by doing feature engineering by 
 It reduced overfitting, but overall accuracy is less than Random Forest.
 
 So we are using Random Forest for prediction as it is in par with the fact that RF works well with high dimensional data and NN are best for unstructured data.
+
+
+### [4. mushroom Classification-Decision Tree Classifier](https://github.com/SandKrish/Classification/blob/main/mushroom-classification-decision-tree-classifier.ipynb)
+This notebook is used to classify if a mushroom is edible or not using decision tree classifier.
