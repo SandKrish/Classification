@@ -36,5 +36,13 @@ It reduced overfitting, but overall accuracy is less than Random Forest.
 So we are using Random Forest for prediction as it is in par with the fact that RF works well with high dimensional data and NN are best for unstructured data.
 
 
-### [4. mushroom Classification-Decision Tree Classifier](https://github.com/SandKrish/Classification/blob/main/mushroom-classification-decision-tree-classifier.ipynb)
+## [4. mushroom Classification-Decision Tree Classifier](https://github.com/SandKrish/Classification/blob/main/mushroom-classification-decision-tree-classifier.ipynb)
 This notebook is used to classify if a mushroom is edible or not using decision tree classifier.
+
+
+## [5. Logistic Regression on Titanic Dataset](https://github.com/SandKrish/Classification/blob/6256223c639383323ce2f5e55550432fda93c0ea/logistic-regression-titanic-dataset.ipynb)
+On April 15, 1912, during the maiden voyage of Titanic, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone on board, resulting in the death of 1502 out of 2224 passengers and crew.
+
+While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
+
+Logistic Regression Machine Learning algorithm is modeled, to a predictive the answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
